@@ -1,0 +1,2 @@
+Make first JavaScript project! The Odin Project - Fundamental 3!
+I use function, variables, constants, return the function, call the function, making block of the code, use method and other stuff that I learned so far... Making progress to the my goal! This been very hard for me, and I need a lot more time that I expected! I use little help from the students solutions! But steel I'm very proud of myself and so excited! Go forward to reach my next goal on The Odin Project!!!
