@@ -1,0 +1,63 @@
+body {
+    background-color: #E81B1B;
+    width:100%;
+    min-width: 100%;
+    }
+  header {
+    font-size: 20px;
+    background-color: #CFCF10;
+    text-shadow: 2px 2px 3px;
+    color: #E81B1B;
+    padding: 2px;
+    margin: -5px;
+  }
+  h1 {
+    margin-left: 525px;
+    font-family: Arial;
+  }
+  button {
+    margin-left: 25px;
+    margin-top: 80px;
+  }
+  #rock {
+    background-color: red;
+    padding: 30px;
+    margin-left: 540px;
+    font-size: 30px;
+    text-shadow: 2px 2px 3px;
+    font-family: Times New Roman;
+  }
+  #paper {
+    background-color: green;
+    padding: 30px;
+    font-size: 30px;
+    text-shadow: 2px 2px 3px;
+    font-family: Times New Roman;
+  }
+  #scissors {
+    background-color: yellow;
+    font-size: 30px;
+    text-shadow: 2px 2px 3px;
+    padding: 30px;
+    font-family: Times New Roman;
+  }
+  .rules {
+    font-size: 20px;
+    font-family: Arial;
+    margin-left: 620px;
+    margin-top: 100px;
+    text-shadow: 1px 1px 2px;
+  }
+  #resultsBox {
+    font-size: 25px;
+    font-family: Times New Roman;
+    margin-top: 25px;
+    margin-left: 600px;
+    text-shadow: 1px 1px 1px;
+    font-style: italic;
+  }
+  .content {
+    padding-left: 200px;
+    padding-right: 220px;
+  }
+  
