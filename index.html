@@ -7,20 +7,22 @@
     <link rel="stylesheet" type="text/css" href="style.css"/>
   </head>  
   <body>
-    <div class=content>
-      <header>
+    <div id="container">
+      <div id="header">
         <h1>Rock Paper Scissors Game</h1>  
-      </header>
-      <div class=rules>
-        <h4>Rules: First one to 5 points wins!</h4>  
       </div>
-      <div class=button>
-        <button id="rock">Rock</button>
-        <button id="paper">Paper</button>
-        <button id="scissors">Scissors</button>
-      </div>  
-      <div id=resultsBox>
-          <!-- This goes conection between JavaScrip and Html and showing the Results, Decision, Score-->
+      <div id="content">
+        <div id="rules">
+          <h4>Rules: First one to 3 points wins!</h4>  
+        </div>
+        <div id="buttons">
+          <button type="button" id="rock"><img src="images/rock.png" alt="gif of rock" width="100px" height="100px"></button>
+          <button type="button" id="paper"><img src="images/paper.png" alt="gif of paper" width="100px" height="100px"></button>
+          <button type="button" id="scissors"><img src="images/scissors.png" alt="gif of scissors" width="100px" height="100px"</button>
+        </div>  
+        <div id=resultsBox>
+            <!-- This goes conection between JavaScrip and Html and showing the Results, Decision, Score-->
+        </div>
       </div>
     </div> 
     <script type="text/javascript" src="rps.js"></script> 
